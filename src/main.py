@@ -1,4 +1,8 @@
-#!/usr/bin/env python3
+"""
+Python-based TCP Port Scanner
+Author: Paras Shahasane
+Purpose: Educational and ethical network reconnaissance
+"""
 """
 Ethical TCP Port Scanner
 A GUI-based network port scanner for legitimate security auditing.
