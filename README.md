@@ -45,7 +45,7 @@ This tool is intended strictly for learning and ethical security testing.
 ## ▶️ How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/python-based-port-scanner.git
+git clone https://github.com/Paras-Shahasane/python-based-port-scanner.git
 
 cd python-based-port-scanner
 
